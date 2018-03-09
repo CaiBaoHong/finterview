@@ -1,0 +1,31 @@
+{
+	"title" : "Java面试碾压指南",
+	"description" : "收集面试题目，整理各种常见问题的知识点",
+	"language" : "zh-hans",
+	"author" : "蔡保洪",
+	"plugins": [
+		"expandable-chapters-small",
+		"image-captions",
+		"-search",
+		"-lunr",
+		"search-pro",
+		"fontsettings"
+	],
+	"pluginsConfig": {
+		"image-captions": {
+			"caption": "图：_CAPTION_"
+		}
+	},
+	"pdf": {
+		"pageNumbers": true,
+		"fontSize": 12,
+		"fontFamily": "微软雅黑",
+		"paperSize":"a4",
+		"margin": {
+			"top": 56,
+			"bottom": 56,
+			"right": 62,
+			"left": 62
+		}
+	}
+}
