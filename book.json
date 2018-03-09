@@ -9,12 +9,12 @@
 		"-search",
 		"-lunr",
 		"search-pro",
-		"fontsettings"
+		"fontsettings"		
 	],
 	"pluginsConfig": {
 		"image-captions": {
 			"caption": "图：_CAPTION_"
-		}
+		}		
 	},
 	"pdf": {
 		"pageNumbers": true,
